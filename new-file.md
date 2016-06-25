@@ -4,4 +4,6 @@ This is a new file.
 
 That's why it has the '.md' file extension. 
 
-note: forgot to add commit message earlier
+note: forgot to add commit message 
+
+add some more lines!

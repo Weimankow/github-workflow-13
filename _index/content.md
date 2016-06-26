@@ -1,4 +1,5 @@
-image
-name
-title
-add markdown
+---
+title: Hello
+author: Jamal Phillips
+layout: blog
+---
